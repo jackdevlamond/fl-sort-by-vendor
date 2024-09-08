@@ -15,6 +15,9 @@ How It Works
 	3.	File Copying: Copies files into new folders named after their vendor, creating the necessary directories if they do not exist.
 	4.	Processing Feedback: Outputs status messages indicating the progress and actions taken.
 
+Scan and verify plugins before running script:
+ ![250405164-f7ed76cf-6bae-4df3-82e9-17b6d5db599b](https://github.com/user-attachments/assets/ce78422f-ecde-4cd0-ba4c-65da50cb9e46)
+ 
 Example
 
 If the script finds a file with a vendor name “SampleVendor”, it will copy that file into a folder named "SampleVendor" within the corresponding "Effects" or "Generators" folder.
