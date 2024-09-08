@@ -1,4 +1,4 @@
-FL Studio Preset Organizer
+FL Studio Preset Organizer (for macOS) for windows see: https://github.com/Magabes/FL-Studio-Automatic-Plugin-Organizer
 
 This Python script helps organize FL Studio plugin presets by categorizing files based on vendor names. It processes the “Effects” and “Generators” folders located in the FL Studio plugin database, reading vendor names from binary files and copying them into vendor-specific folders.
 
